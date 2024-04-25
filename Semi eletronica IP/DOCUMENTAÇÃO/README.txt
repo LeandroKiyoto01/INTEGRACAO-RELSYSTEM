@@ -1,0 +1,1 @@
+Para conseguir realizar a comunicação com o equipamento no exemplo em C#, é necessário realizar a mudança do IP do mesmo na classe "Globais" dentro dos arquivos do exemplo.
