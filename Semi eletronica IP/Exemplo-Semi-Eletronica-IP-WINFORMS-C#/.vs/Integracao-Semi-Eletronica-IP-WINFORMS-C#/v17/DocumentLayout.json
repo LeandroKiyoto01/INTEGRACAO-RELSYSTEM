@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PROJETOS PROGRAMACAO\\INTEGRACAO-RELSYSTEM-PRIVADO\\Semi eletronica IP\\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\\",
+  "WorkspaceRootPath": "C:\\PROJETOS PROGRAMACAO\\INTEGRACAO-RELSYSTEM\\Semi eletronica IP\\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF02622E-8483-4C9E-9E02-62D0EEBEE2D3}|Integracao-Semi-Eletronica-IP-WINFORMS-C#.csproj|c:\\projetos programacao\\integracao-relsystem-privado\\semi eletronica ip\\exemplo-semi-eletronica-ip-winforms-c#\\globais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF02622E-8483-4C9E-9E02-62D0EEBEE2D3}|Integracao-Semi-Eletronica-IP-WINFORMS-C#.csproj|c:\\projetos programacao\\integracao-relsystem\\semi eletronica ip\\exemplo-semi-eletronica-ip-winforms-c#\\globais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF02622E-8483-4C9E-9E02-62D0EEBEE2D3}|Integracao-Semi-Eletronica-IP-WINFORMS-C#.csproj|solutionrelative:globais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Globais.cs",
-              "DocumentMoniker": "C:\\PROJETOS PROGRAMACAO\\INTEGRACAO-RELSYSTEM-PRIVADO\\Semi eletronica IP\\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\\Globais.cs",
+              "DocumentMoniker": "C:\\PROJETOS PROGRAMACAO\\INTEGRACAO-RELSYSTEM\\Semi eletronica IP\\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\\Globais.cs",
               "RelativeDocumentMoniker": "Globais.cs",
-              "ToolTip": "C:\\PROJETOS PROGRAMACAO\\INTEGRACAO-RELSYSTEM-PRIVADO\\Semi eletronica IP\\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\\Globais.cs",
+              "ToolTip": "C:\\PROJETOS PROGRAMACAO\\INTEGRACAO-RELSYSTEM\\Semi eletronica IP\\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\\Globais.cs",
               "RelativeToolTip": "Globais.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABTAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T13:12:00.905Z",
               "EditorCaption": ""

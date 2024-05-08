@@ -65,21 +65,11 @@
             cb_acessoDuplo = new CheckBox();
             cb_acessoUnico = new CheckBox();
             label7 = new Label();
-            tabPage3 = new TabPage();
-            btn_salvarLimitador = new Button();
-            tb_alerta = new TextBox();
-            tb_limite = new TextBox();
-            label11 = new Label();
-            label12 = new Label();
-            cb_limitadorDeGiro = new CheckBox();
-            label10 = new Label();
             rtb_log = new RichTextBox();
-            btn_zerarLimitador = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             tabControl1.SuspendLayout();
             tabPage1.SuspendLayout();
             tabPage2.SuspendLayout();
-            tabPage3.SuspendLayout();
             SuspendLayout();
             // 
             // panel1
@@ -133,7 +123,6 @@
             // 
             tabControl1.Controls.Add(tabPage1);
             tabControl1.Controls.Add(tabPage2);
-            tabControl1.Controls.Add(tabPage3);
             tabControl1.Dock = DockStyle.Fill;
             tabControl1.Font = new Font("Segoe UI Semibold", 9.75F, FontStyle.Bold, GraphicsUnit.Point);
             tabControl1.Location = new Point(40, 80);
@@ -496,94 +485,6 @@
             label7.TabIndex = 1;
             label7.Text = "Sentido de giro:";
             // 
-            // tabPage3
-            // 
-            tabPage3.Controls.Add(btn_zerarLimitador);
-            tabPage3.Controls.Add(btn_salvarLimitador);
-            tabPage3.Controls.Add(tb_alerta);
-            tabPage3.Controls.Add(tb_limite);
-            tabPage3.Controls.Add(label11);
-            tabPage3.Controls.Add(label12);
-            tabPage3.Controls.Add(cb_limitadorDeGiro);
-            tabPage3.Controls.Add(label10);
-            tabPage3.Font = new Font("Segoe UI Semibold", 9.75F, FontStyle.Bold, GraphicsUnit.Point);
-            tabPage3.Location = new Point(4, 26);
-            tabPage3.Name = "tabPage3";
-            tabPage3.Size = new Size(735, 518);
-            tabPage3.TabIndex = 2;
-            tabPage3.Text = "Limitador de Giro";
-            tabPage3.UseVisualStyleBackColor = true;
-            // 
-            // btn_salvarLimitador
-            // 
-            btn_salvarLimitador.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            btn_salvarLimitador.Location = new Point(13, 203);
-            btn_salvarLimitador.Name = "btn_salvarLimitador";
-            btn_salvarLimitador.Size = new Size(130, 30);
-            btn_salvarLimitador.TabIndex = 17;
-            btn_salvarLimitador.Text = "Salvar";
-            btn_salvarLimitador.UseVisualStyleBackColor = true;
-            btn_salvarLimitador.Click += btn_salvarLimitador_Click;
-            // 
-            // tb_alerta
-            // 
-            tb_alerta.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            tb_alerta.Location = new Point(13, 168);
-            tb_alerta.Name = "tb_alerta";
-            tb_alerta.Size = new Size(130, 29);
-            tb_alerta.TabIndex = 16;
-            tb_alerta.TextAlign = HorizontalAlignment.Center;
-            // 
-            // tb_limite
-            // 
-            tb_limite.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            tb_limite.Location = new Point(13, 112);
-            tb_limite.Name = "tb_limite";
-            tb_limite.Size = new Size(130, 29);
-            tb_limite.TabIndex = 15;
-            tb_limite.TextAlign = HorizontalAlignment.Center;
-            // 
-            // label11
-            // 
-            label11.AutoSize = true;
-            label11.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            label11.Location = new Point(13, 144);
-            label11.Name = "label11";
-            label11.Size = new Size(58, 21);
-            label11.TabIndex = 14;
-            label11.Text = "Alerta:";
-            // 
-            // label12
-            // 
-            label12.AutoSize = true;
-            label12.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            label12.Location = new Point(13, 88);
-            label12.Name = "label12";
-            label12.Size = new Size(59, 21);
-            label12.TabIndex = 13;
-            label12.Text = "Limite:";
-            // 
-            // cb_limitadorDeGiro
-            // 
-            cb_limitadorDeGiro.AutoSize = true;
-            cb_limitadorDeGiro.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            cb_limitadorDeGiro.Location = new Point(13, 50);
-            cb_limitadorDeGiro.Name = "cb_limitadorDeGiro";
-            cb_limitadorDeGiro.Size = new Size(142, 25);
-            cb_limitadorDeGiro.TabIndex = 3;
-            cb_limitadorDeGiro.Text = "Ativa / Desativa";
-            cb_limitadorDeGiro.UseVisualStyleBackColor = true;
-            // 
-            // label10
-            // 
-            label10.AutoSize = true;
-            label10.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            label10.Location = new Point(13, 13);
-            label10.Name = "label10";
-            label10.Size = new Size(141, 21);
-            label10.TabIndex = 2;
-            label10.Text = "Limitador de giro:";
-            // 
             // rtb_log
             // 
             rtb_log.BackColor = Color.FromArgb(42, 48, 54);
@@ -596,17 +497,6 @@
             rtb_log.Size = new Size(300, 548);
             rtb_log.TabIndex = 5;
             rtb_log.Text = "";
-            // 
-            // btn_zerarLimitador
-            // 
-            btn_zerarLimitador.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            btn_zerarLimitador.Location = new Point(13, 239);
-            btn_zerarLimitador.Name = "btn_zerarLimitador";
-            btn_zerarLimitador.Size = new Size(130, 30);
-            btn_zerarLimitador.TabIndex = 18;
-            btn_zerarLimitador.Text = "Zerar Limitador";
-            btn_zerarLimitador.UseVisualStyleBackColor = true;
-            btn_zerarLimitador.Click += btn_zerarLimitador_Click;
             // 
             // F_exemplo
             // 
@@ -631,8 +521,6 @@
             tabPage1.PerformLayout();
             tabPage2.ResumeLayout(false);
             tabPage2.PerformLayout();
-            tabPage3.ResumeLayout(false);
-            tabPage3.PerformLayout();
             ResumeLayout(false);
         }
 
@@ -646,7 +534,6 @@
         private TabControl tabControl1;
         private TabPage tabPage1;
         private TabPage tabPage2;
-        private TabPage tabPage3;
         private MaskedTextBox mtb_ip;
         private Label label1;
         private TextBox tb_porta;
@@ -677,14 +564,6 @@
         private Button btn_liberaEntrada;
         private Button btn_liberaAmbos;
         private Label label9;
-        private CheckBox cb_limitadorDeGiro;
-        private Label label10;
-        private Button btn_salvarLimitador;
-        private TextBox tb_alerta;
-        private TextBox tb_limite;
-        private Label label11;
-        private Label label12;
         private TextBox tb_acionamento;
-        private Button btn_zerarLimitador;
     }
 }

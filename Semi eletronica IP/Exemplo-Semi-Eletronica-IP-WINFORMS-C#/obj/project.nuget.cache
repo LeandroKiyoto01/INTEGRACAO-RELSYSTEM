@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tHTRE5TEjkY+PgGqUz5wXxDNacI6VWvAZS+F8hncE8CDxDc+yvjKpP09oGZTvWUdV2rU37gZC5ZgXF4Ug9CkFQ==",
+  "dgSpecHash": "NN5UvSpejFvxChSi9itvRd825E0Up6KBfFlvLw/5CdseqYllAbSBOYoVTFnjleXIK8oac8c9RaeMjkEjidTl4w==",
   "success": true,
-  "projectFilePath": "C:\\PROJETOS PROGRAMACAO\\INTEGRACAO-RELSYSTEM-PRIVADO\\Semi eletronica IP\\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\\Integracao-Semi-Eletronica-IP-WINFORMS-C#.csproj",
+  "projectFilePath": "C:\\PROJETOS PROGRAMACAO\\INTEGRACAO-RELSYSTEM\\Semi eletronica IP\\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\\Integracao-Semi-Eletronica-IP-WINFORMS-C#.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kiyot\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
     "C:\\Users\\kiyot\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",

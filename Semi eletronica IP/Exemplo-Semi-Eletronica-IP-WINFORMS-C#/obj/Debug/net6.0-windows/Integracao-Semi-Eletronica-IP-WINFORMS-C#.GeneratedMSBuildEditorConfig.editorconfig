@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Integracao_Semi_Eletronica_IP_WINFORMS_C_
-build_property.ProjectDir = C:\PROJETOS PROGRAMACAO\INTEGRACAO-RELSYSTEM-PRIVADO\Semi eletronica IP\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\
+build_property.ProjectDir = C:\PROJETOS PROGRAMACAO\INTEGRACAO-RELSYSTEM\Semi eletronica IP\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

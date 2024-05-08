@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROJETOS PROGRAMACAO\\INTEGRACAO-RELSYSTEM-PRIVADO\\Semi eletronica IP\\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\\Integracao-Semi-Eletronica-IP-WINFORMS-C#.csproj",
+      "projectUniqueName": "C:\\PROJETOS PROGRAMACAO\\INTEGRACAO-RELSYSTEM\\Semi eletronica IP\\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\\Integracao-Semi-Eletronica-IP-WINFORMS-C#.csproj",
       "projectName": "Integracao-Semi-Eletronica-IP-WINFORMS-C#",
-      "projectPath": "C:\\PROJETOS PROGRAMACAO\\INTEGRACAO-RELSYSTEM-PRIVADO\\Semi eletronica IP\\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\\Integracao-Semi-Eletronica-IP-WINFORMS-C#.csproj",
+      "projectPath": "C:\\PROJETOS PROGRAMACAO\\INTEGRACAO-RELSYSTEM\\Semi eletronica IP\\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\\Integracao-Semi-Eletronica-IP-WINFORMS-C#.csproj",
       "packagesPath": "C:\\Users\\kiyot\\.nuget\\packages\\",
-      "outputPath": "C:\\PROJETOS PROGRAMACAO\\INTEGRACAO-RELSYSTEM-PRIVADO\\Semi eletronica IP\\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\\obj\\",
+      "outputPath": "C:\\PROJETOS PROGRAMACAO\\INTEGRACAO-RELSYSTEM\\Semi eletronica IP\\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kiyot\\AppData\\Roaming\\NuGet\\NuGet.Config",

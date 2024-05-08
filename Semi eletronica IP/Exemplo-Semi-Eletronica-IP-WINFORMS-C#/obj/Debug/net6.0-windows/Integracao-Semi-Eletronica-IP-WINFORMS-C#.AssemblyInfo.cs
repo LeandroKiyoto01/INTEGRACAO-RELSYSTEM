@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Integracao-Semi-Eletronica-IP-WINFORMS-C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc1cd62f301ecd9fec0ad58dbd67331104854511")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2994fab4c5f5f4c7a2090d3445a953dd848f0d19")]
 [assembly: System.Reflection.AssemblyProductAttribute("Integracao-Semi-Eletronica-IP-WINFORMS-C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Integracao-Semi-Eletronica-IP-WINFORMS-C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
