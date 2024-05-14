@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\PROJETOS PROGRAMACAO\\INTEGRACAO-RELSYSTEM\\Semi eletronica IP\\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF02622E-8483-4C9E-9E02-62D0EEBEE2D3}|Integracao-Semi-Eletronica-IP-WINFORMS-C#.csproj|c:\\projetos programacao\\integracao-relsystem\\semi eletronica ip\\exemplo-semi-eletronica-ip-winforms-c#\\globais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF02622E-8483-4C9E-9E02-62D0EEBEE2D3}|Integracao-Semi-Eletronica-IP-WINFORMS-C#.csproj|c:\\projetos programacao\\integracao-relsystem\\semi eletronica ip\\exemplo-semi-eletronica-ip-winforms-c#\\f_exemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF02622E-8483-4C9E-9E02-62D0EEBEE2D3}|Integracao-Semi-Eletronica-IP-WINFORMS-C#.csproj|solutionrelative:f_exemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF02622E-8483-4C9E-9E02-62D0EEBEE2D3}|Integracao-Semi-Eletronica-IP-WINFORMS-C#.csproj|c:\\projetos programacao\\integracao-relsystem\\semi eletronica ip\\exemplo-semi-eletronica-ip-winforms-c#\\f_exemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF02622E-8483-4C9E-9E02-62D0EEBEE2D3}|Integracao-Semi-Eletronica-IP-WINFORMS-C#.csproj|solutionrelative:f_exemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF02622E-8483-4C9E-9E02-62D0EEBEE2D3}|Integracao-Semi-Eletronica-IP-WINFORMS-C#.csproj|C:\\PROJETOS PROGRAMACAO\\INTEGRACAO-RELSYSTEM\\Semi eletronica IP\\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\\globais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF02622E-8483-4C9E-9E02-62D0EEBEE2D3}|Integracao-Semi-Eletronica-IP-WINFORMS-C#.csproj|solutionrelative:globais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,6 +27,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "F_exemplo.cs",
+              "DocumentMoniker": "C:\\PROJETOS PROGRAMACAO\\INTEGRACAO-RELSYSTEM\\Semi eletronica IP\\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\\F_exemplo.cs",
+              "RelativeDocumentMoniker": "F_exemplo.cs",
+              "ToolTip": "C:\\PROJETOS PROGRAMACAO\\INTEGRACAO-RELSYSTEM\\Semi eletronica IP\\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\\F_exemplo.cs",
+              "RelativeToolTip": "F_exemplo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:28:26.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "F_exemplo.cs [Projeto]",
+              "DocumentMoniker": "C:\\PROJETOS PROGRAMACAO\\INTEGRACAO-RELSYSTEM\\Semi eletronica IP\\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\\F_exemplo.cs",
+              "RelativeDocumentMoniker": "F_exemplo.cs",
+              "ToolTip": "C:\\PROJETOS PROGRAMACAO\\INTEGRACAO-RELSYSTEM\\Semi eletronica IP\\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\\F_exemplo.cs [Projeto]",
+              "RelativeToolTip": "F_exemplo.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:28:21.929Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Globais.cs",
               "DocumentMoniker": "C:\\PROJETOS PROGRAMACAO\\INTEGRACAO-RELSYSTEM\\Semi eletronica IP\\Exemplo-Semi-Eletronica-IP-WINFORMS-C#\\Globais.cs",
               "RelativeDocumentMoniker": "Globais.cs",

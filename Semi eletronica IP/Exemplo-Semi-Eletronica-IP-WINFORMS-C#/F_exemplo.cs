@@ -370,40 +370,5 @@ namespace Integracao_Semi_Eletronica_IP_WINFORMS_C_
             }
         }
         #endregion
-
-        #region zerarLimitador
-        private async void btn_zerarLimitador_Click(object sender, EventArgs e)
-        {
-            // URL para enviar a solicitação POST
-            string url = $"http://{Globais.IPEquipamento}/zeraLimitador?zera=1";
-
-            // Criar instância do HttpClient
-            using (HttpClient client = new HttpClient())
-            {
-                try
-                {
-                    // Criar conteúdo da solicitação (vazio para POST)
-                    HttpContent conteudo = new StringContent("");
-
-                    // Enviar solicitação POST
-                    HttpResponseMessage resposta = await client.PostAsync(url, conteudo);
-
-                    // Verificar se a solicitação foi bem-sucedida
-                    if (resposta.IsSuccessStatusCode)
-                    {
-                        ReceberTexto("\r\nSolicitação POST enviada com sucesso.");
-                    }
-                    else
-                    {
-                        ReceberTexto($"\r\nErro ao enviar solicitação: {resposta.StatusCode}");
-                    }
-                }
-                catch (Exception ex)
-                {
-                    ReceberTexto($"\r\nOcorreu um erro: {ex.Message}");
-                }
-            }
-        }
-        #endregion
     }
 }
